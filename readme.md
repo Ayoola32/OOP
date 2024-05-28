@@ -20,7 +20,7 @@ The two function has something in common which can actually
 
 
 4 PRINCIPLES OF OOP
-Encapsulation - might be refers to as writjng code in a form of capsule - lol, 
+Encapsulation - might be refers to as writing code in a form of capsule - lol, 
 Abstraction   - writing code in a well explanatory way and consise
 Inheritance   - can be reuase by another class, inherit by another class
 Polymorphism  - more clean code and well written 
