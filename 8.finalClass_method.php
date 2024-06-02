@@ -9,9 +9,9 @@ final class Product{
     public $name = 'Product name';
 }
 
-class Book extends Product{
-    // Error: Cannot extend final class Product
-}
+// class Book extends Product{
+//     // Error: Cannot extend final class Product
+// }
 
 
 // Ex2
@@ -22,9 +22,9 @@ class Product2 {
 }
 
 class Book extends Product2 {
-    public function display() {
-        // Error: Cannot override final method Product::display()
-    }
+    // public function display() {
+    //     // Error: Cannot override final method Product::display()
+    // }
 }
 
 
