@@ -1,5 +1,7 @@
 <?php
 // __call() method in PHP is a magic method that is automatically triggered when you call a method that doesn't exist or is inaccessible (due to being private or protected) on an object. 
+
+
 class Product {
     private $data = array(); // Array to hold property values
 
