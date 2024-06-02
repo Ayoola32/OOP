@@ -46,7 +46,7 @@ class Book extends Product {
 $book = new Book("PHP for Beginners", 30, "John Doe");
 $book->display(); // Output: Book: PHP for Beginners, Price: 30, Author: John Doe
 
-?>
+
 
 
 
